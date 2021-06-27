@@ -28,5 +28,3 @@ mysqli_query($conn,"DELETE FROM kullanici_mesajlari WHERE zaman<=DATE_SUB(NOW(),
 mysqli_query($conn,"DELETE FROM yonetici_mesajlari WHERE zaman<=DATE_SUB(NOW(), INTERVAL 1 DAY)");
 mysqli_query($conn,"DELETE FROM eleman_mesajlari WHERE zaman<=DATE_SUB(NOW(), INTERVAL 1 DAY)");
 ?>
-
-mysql://be20445e4bb0f1:c278bcc1@us-cdbr-east-04.cleardb.com/heroku_24e188829672d17?reconnect=true
