@@ -1,6 +1,6 @@
 <?php
-$conn=mysqli_connect('localhost', 'stoky', 'stoky123')or die("Bağlantı Kurulamadı"); //Veritabanı Giriş Bilgileri
-mysqli_select_db($conn,'stoky')or die('Veritabanı Bulunamadı');
+$conn=mysqli_connect('localhost','ufuk','123')or die("Bağlantı Kurulamadı"); //Veritabanı Giriş Bilgileri
+mysqli_select_db($conn,'stocky')or die('Veritabanı Bulunamadı');
 mysqli_query($conn,"SET NAMES 'utf8'  ");
 mysqli_query($conn,"SET CHARACTER SET utf8");
 mysqli_query($conn,"SET COLLATION_CONNECTION = 'utf8_turkish_ci' ");
