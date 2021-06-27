@@ -13,7 +13,7 @@
                                 </a>
                             </li>
                             <li>
-                                    Stoky-Stok Yönetim Paneli
+                                    Stocky-Stok Yönetim Paneli
                             </li>
                         </ul>
                     </nav>

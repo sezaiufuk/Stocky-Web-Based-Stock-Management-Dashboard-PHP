@@ -1,3 +1,5 @@
 localhost
-giriþ adý:stoky
-þifre:stoky123
+giriþ adý:ufuk
+þifre:123
+
+üye deðiþikliði yaptýysanýz baglan.php deðiþtiriniz

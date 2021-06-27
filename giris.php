@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-<title>Stoky-Giriş Paneli</title>
+<title>Stocky-Giriş Paneli</title>
 <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
 <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
 <link href="assets/css/animate.css" rel="stylesheet" type="text/css" media="all">
@@ -42,7 +42,7 @@
                         <div class="col-sm-6 col-sm-offset-3 form-box" style="margin-top:10em;">
                         	<div class="form-top">
                         		<div class="form-top-left col-md-6">
-									<h3>Stoky Giriş Paneli</h3>
+									<h3>Stocky Giriş Paneli</h3>
                         		</div>
                            <div style="float:right;margin-top:1.6em;color:#434343;text-decoration:underline;"><a href="kayit.php" id="reglink">Kayıt Ol</a></div>
                             </div>
