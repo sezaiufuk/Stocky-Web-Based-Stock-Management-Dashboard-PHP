@@ -1,0 +1,11 @@
+A web-based stock management dashboard developed using PHP and MySQL
+![](./stockyimages/login.png)
+![](./stockyimages/register.png)
+![](./stockyimages/adminpanel.png)
+![](./stockyimages/adminpanel2.png)
+![](./stockyimages/stoklar.png)
+![](./stockyimages/urunislem.png)
+![](./stockyimages/urunislem2.png)
+![](./stockyimages/gelenkutusu.png)
+![](./stockyimages/gonderilenmesajlar.png)
+![](./stockyimages/mesajgondermek.png)
